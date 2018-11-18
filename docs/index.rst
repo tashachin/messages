@@ -17,7 +17,7 @@ Welcome to the **messages** docs!
 * This project is intended to be **community-driven** and a great way to learn about software engineering processes.
 * All contributors are welcome regardless of experience level!
 
-Join the conversation on our `Slack Team <https://messages-py.herokuapp.com/>`_
+Join the conversation on our `Slack Team <https://messages-py.herokuapp.com/>`_!
 
 Getting Started
 ---------------
