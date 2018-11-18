@@ -9,6 +9,7 @@ eggs/
 
 #Virtual Python Environments
 /venv
+/env
 
 #Integrated Development Environments
 /.idea
